@@ -11,7 +11,37 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = ````⚠️ I AM A ALIVE ✅```
+
+  *created of oshadha 💞💯*
+
+ *◇─────🥺💖🧚‍♂️──────◇*
+
+*ᗚ  number :* https://wa.me/+94761036291 
+
+*ᗚ  Host Name :* 😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ 
+
+*ᗚ  Port :* 443 or 444
+
+*ᗚ  Username :* Oshadha
+
+*ᗚ  Password :* zerro.
+
+*ᗚ  Expiration  :* 15-September-2022
+
+*ᗚ  Max Login  :* Unlimited ♾
+
+*ᗚ  Torrents  :* Torrents Not Allowed ❌
+
+    *◇─𝐌𝚞𝚜𝚒𝚌 𝐂𝚕𝚞𝙱𝚎• 🎧♥️💯─◇*
+
+ *⭕Link: https://chat.whatsapp.com/IcwkfSCfq8GEjLBJKtDZjR*
+
+```🔥 Created by Dinu Bot 🔥```
+
+                     🥺💖🧚‍♂️
+
+*☘️😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ ☘️*
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,8 +59,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94703277998'] // owner number
-global.ownername = " ۝⃟̥̩̩̩̥̩̥͚̮𝚄𝙳𝙸𝚃𝙷۝⃟̥̩̩̩̥̩̥͚̮ " // owner name
+global.vcardowner = ['+940705261679'] // owner number
+global.ownername = " 😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,11 +77,11 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94703277998']
-global.ownertag = '+94703277998' //your tag number
-global.botname = ' ۝⃟̥̩̩̩̥̩̥͚̮𝚄𝙳𝙸𝚃𝙷۝⃟̥̩̩̩̥̩̥͚̮' //ur bot name
+global.owner = ['+940705261679']
+global.ownertag = '+940705261679' //your tag number
+global.botname = ' 😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = " ۝⃟̥̩̩̩̥̩̥͚̮𝚄𝙳𝙸𝚃𝙷۝⃟̥̩̩̩̥̩̥͚̮ " // sticker author
+global.author = " 😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
