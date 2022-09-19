@@ -12,36 +12,6 @@ global.APIKeys = {
 }
 
 global.alivemsg = ````⚠️ I AM A ALIVE ✅```
-
-  *created of oshadha 💞💯*
-
- *◇─────🥺💖🧚‍♂️──────◇*
-
-*ᗚ  number :* https://wa.me/+94761036291 
-
-*ᗚ  Host Name :* 😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ 
-
-*ᗚ  Port :* 443 or 444
-
-*ᗚ  Username :* Oshadha
-
-*ᗚ  Password :* zerro.
-
-*ᗚ  Expiration  :* 15-September-2022
-
-*ᗚ  Max Login  :* Unlimited ♾
-
-*ᗚ  Torrents  :* Torrents Not Allowed ❌
-
-    *◇─𝐌𝚞𝚜𝚒𝚌 𝐂𝚕𝚞𝙱𝚎• 🎧♥️💯─◇*
-
- *⭕Link: https://chat.whatsapp.com/IcwkfSCfq8GEjLBJKtDZjR*
-
-```🔥 Created by Dinu Bot 🔥```
-
-                     🥺💖🧚‍♂️
-
-*☘️😈SͥEͣXͫᵞ̶۞⃬͠ᴅᴇᴠɪʟ ᴅɪɴᴜ🌙̲ᵀᴹ ☘️*
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
